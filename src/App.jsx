@@ -3,6 +3,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import 'bootstrap/dist/js/bootstrap.bundle.min.js'; // Optional for tooltips/popovers
 
 
+
 function App() {
 
   return (
@@ -15,7 +16,8 @@ function App() {
       </h1>
 
       <h3 className="bg-secondary">Anoop</h3>
-      <h3 className='bg-red-200'>Shashikant</h3>
+      <h3 className='bg-red-200 w-fit'>Shashikant Pathak</h3>
+
     </>
   )
 }
