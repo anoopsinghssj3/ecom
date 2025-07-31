@@ -14,7 +14,8 @@ function App() {
         Hello world! bootstrap
       </h1>
 
-      <h3 className="bg-secondary">Anoop</h3> 
+      <h3 className="bg-secondary">Anoop</h3>
+      <h3 className='bg-red-200'>Shashikant</h3>
     </>
   )
 }
